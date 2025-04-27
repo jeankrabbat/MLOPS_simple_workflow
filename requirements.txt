@@ -10,3 +10,7 @@ python-dateutil
 pytz
 scikit-learn
 scipy
+uvicorn
+fastapi
+boto3
+dvc-s3
